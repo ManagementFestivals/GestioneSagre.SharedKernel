@@ -1,0 +1,1 @@
+﻿# Gestione Sagre Shared Kernel
