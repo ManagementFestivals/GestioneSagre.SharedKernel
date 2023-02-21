@@ -1,4 +1,4 @@
-﻿namespace GestioneSagre.SharedKernel.Models;
+﻿namespace GestioneSagre.SharedKernel.Models.Email;
 
 public class EmailRequest
 {
